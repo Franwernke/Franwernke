@@ -9,16 +9,18 @@ Now focusing on learning [Vue.js](https://github.com/jooaodanieel/devboost-front
 If you're an employer, take a look on my [Resume](https://drive.google.com/file/d/1nr6bN9V5Vg6iSZPyLNF7SMfQmDGYdacz/view?usp=sharing)
 
 ## Get in touch with me
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />][github]
 [<img align="left" alt="Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gitlab.svg" />][gitlab]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitter.svg" />][twitter]
 
-[linkedin](https://www.linkedin.com/in/francisco-eugenio-wernke/)
-[instagram](https://www.instagram.com/francisco_e.w/)
-[github](https://github.com/Franwernke)
-[gitlab](https://gitlab.com/FranWernke)
-[Twitter](https://twitter.com/fran_wernke)
-
-
+[linkedin]: https://www.linkedin.com/in/francisco-eugenio-wernke/
+[instagram]: https://www.instagram.com/francisco_e.w/
+[github]: https://github.com/Franwernke/
+[gitlab]: https://gitlab.com/FranWernke/
+[twitter]: https://twitter.com/fran_wernke/
+<br/>
+<br/>
 See you around!!!
