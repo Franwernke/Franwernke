@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there and welcome to my GitHub 🧐
 
-<!--
-**Franwernke/Franwernke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm Francisco (Chico if you prefer  ), currently graduating in Computer Science at University of São Paulo's Mathematics and Statistics Institute.
+I really enjoy imagining, structuring and coding systems of all kinds. Besides that, I love clever algorithms that solve real world problems.
 
-Here are some ideas to get you started:
+Now focusing on learning [Vue.js](https://github.com/jooaodanieel/devboost-frontend) and [Express](https://github.com/jooaodanieel/devboost-backend)
+If you're an employer, take a look on my [resume](https://drive.google.com/file/d/1nr6bN9V5Vg6iSZPyLNF7SMfQmDGYdacz/view?usp=sharing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch with me
+[Linkedin](https://www.linkedin.com/in/francisco-eugenio-wernke/)
+[GitLab](https://gitlab.com/FranWernke)
+[GitHub](https://github.com/Franwernke)
+[Twitter](@fran_wernke)
+[Instagram](francisco_e.w)
+
+See you around!!!
