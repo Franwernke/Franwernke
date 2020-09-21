@@ -24,3 +24,12 @@ If you're an employer, take a look on my [Resume](https://drive.google.com/file/
 <br/>
 <br/>
 See you around!!!
+
+## Github Stats
+
+<a href="https://github-readme-stats.vercel.app/api?username=erickrodrigs&show_icons=true&hide_border=true">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Franwernke&show_icons=true&hide_border=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=erickrodrigs&show_icons=true&hide_border=true">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franwernke&show_icons=true&hide_border=true" />
+</a>
