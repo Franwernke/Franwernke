@@ -27,9 +27,5 @@ See you around!!!
 
 ## Github Stats
 
-<a href="https://github-readme-stats.vercel.app/api?username=Franwernke&show_icons=true&hide_border=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Franwernke&show_icons=true&hide_border=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Franwernke&show_icons=true&hide_border=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franwernke&show_icons=true&hide_border=true" />
-</a>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Franwernke&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franwernke&theme=merko&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
