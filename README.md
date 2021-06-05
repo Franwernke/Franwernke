@@ -8,6 +8,12 @@ Now focusing on learning [Vue.js](https://github.com/jooaodanieel/devboost-front
 
 If you're an employer, take a look on my [Resume](https://drive.google.com/file/d/1nr6bN9V5Vg6iSZPyLNF7SMfQmDGYdacz/view?usp=sharing)
 
+## Experience
+
+Currently working at #QuintoAndar as Software Developer Intern. Developing software systems to Customer Support and Process Flow concerns.
+Stack: Back-end with Spring Boot, Node.js, Elastic Stack and AWS
+Architecture: Microsservices
+
 ## Get in touch with me
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
