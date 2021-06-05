@@ -11,8 +11,10 @@ If you're an employer, take a look on my [Resume](https://drive.google.com/file/
 ## Experience
 
 Currently working at #QuintoAndar as Software Developer Intern. Developing software systems to Customer Support and Process Flow concerns.
-Stack: Back-end with Spring Boot, Node.js, Elastic Stack and AWS
-Architecture: Microsservices
+
+**Stack**: Back-end with Spring Boot, Node.js, Elastic Stack and AWS
+
+**Architecture**: Microsservices
 
 ## Get in touch with me
 
